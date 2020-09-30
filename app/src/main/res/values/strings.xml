@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">App_1</string>
+    <string name="btn1">Login</string>
+    <string name="ulog">User Login</string>
+    <string name="cansel">Cansel</string>
+    <string name="testview">OLE PRODUCTION</string>
+    <string name="un">Email</string>
+    <string name="pw">Password</string>
+    <string name="epw">Enter Password</string>
+    <string name="eun">Enter Email</string>
 </resources>
